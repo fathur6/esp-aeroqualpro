@@ -2,6 +2,13 @@
 
 **Not a physical header orientation or fabrication schematic. Not bench-tested.** Verify printed PCB labels and manufacturer's pinout before connecting.
 
+## Draft wiring image
+![Draft MKR WiFi 1010 and Grove air-quality sensor wiring](../hardware/draft-wiring.jpg)
+
+[Original supplied JPEG](https://i.postimg.cc/XYM9t36v/draft-wiring.jpg) · [SVG diagram](../hardware/draft-wiring.svg) · [HTML view](../hardware/draft-wiring.html)
+
+The supplied image retains its original “one HM3301 assumed” caption; **one unit is confirmed**. The written net mapping below governs the connections.
+
 ## I2C connections
 | Net | Connection |
 |---|---|
